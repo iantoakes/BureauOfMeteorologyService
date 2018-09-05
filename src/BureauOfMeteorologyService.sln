@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BureauOfMeteorology.Service", "BureauOfMeteorology.Service\BureauOfMeteorology.Service.csproj", "{4412138E-FB2C-43F9-9A3F-1B643CCCD678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BureauOfMeteorology.Facade", "BureauOfMeteorology.Facade\BureauOfMeteorology.Facade.csproj", "{47C851F2-A5FE-41DA-B58A-20141A9EF6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BureauOfMeteorology.Model", "BureauOfMeteorology.Model\BureauOfMeteorology.Model.csproj", "{B31D674C-B2F2-45B1-AC75-755629A3D76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4412138E-FB2C-43F9-9A3F-1B643CCCD678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4412138E-FB2C-43F9-9A3F-1B643CCCD678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4412138E-FB2C-43F9-9A3F-1B643CCCD678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4412138E-FB2C-43F9-9A3F-1B643CCCD678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C851F2-A5FE-41DA-B58A-20141A9EF6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C851F2-A5FE-41DA-B58A-20141A9EF6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C851F2-A5FE-41DA-B58A-20141A9EF6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C851F2-A5FE-41DA-B58A-20141A9EF6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31D674C-B2F2-45B1-AC75-755629A3D76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31D674C-B2F2-45B1-AC75-755629A3D76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31D674C-B2F2-45B1-AC75-755629A3D76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31D674C-B2F2-45B1-AC75-755629A3D76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7702D9-A668-4572-876E-689710DAA73A}
+	EndGlobalSection
+EndGlobal
